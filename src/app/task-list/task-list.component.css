@@ -1,7 +1,9 @@
 .list-container{
-    text-align: center;
     width: 50%;
     margin-left: 25%;
-    margin-top: 10%;
     padding-top: 2%;
+}
+
+ul{
+    list-style-type: none;
 }
